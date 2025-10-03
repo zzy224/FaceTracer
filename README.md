@@ -18,7 +18,7 @@ FaceTracer, the first non-intrusive framework specifically designed to trace the
 
 
 <div align="center">
-  <img src="assets/model_structure.png" width="80%" alt="Framework">
+  <img src="assets/model structure.png" width="80%" alt="Framework">
   <p><em>Figure 2. FaceTracer consists of three designs: a) identity information extraction module aims to extracts crude identity embedding from the input image, b) identity information disentanglement module eliminates the influence of the identity information from the target person, and c) identity information enhancement module further enhances the discriminative capability. The red dotted line indicates the optimization of FaceTracer with the identity information enhancement module, which is also known as the AAMSoftmax loss.</em></p>
 </div>  
 
