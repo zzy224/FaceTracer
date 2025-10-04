@@ -27,6 +27,7 @@ FaceTracer, the first non-intrusive framework specifically designed to trace the
 
 ## 📰 News
 
+- **2025-10-04**: Model checkpoints are released!
 - **2025-08-20**: Paper accepted to TPAMI!
 
 ---
